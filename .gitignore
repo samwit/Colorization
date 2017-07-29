@@ -3,3 +3,4 @@ checkpoints/*
 data/*
 .ipynb_checkpoints/*
 weights/
+.DS_Store
